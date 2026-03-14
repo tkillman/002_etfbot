@@ -1,0 +1,9 @@
+{
+  "num_rows": 5,
+  "single_gpt_judge_avg_a": 0.9299999999999999,
+  "single_gpt_judge_avg_b": 0.97,
+  "single_gemini_judge_avg_a": 0.96,
+  "single_gemini_judge_avg_b": 1.0,
+  "pairwise_gpt_mean": 0.6,
+  "pairwise_gemini_mean": 0.7
+}
